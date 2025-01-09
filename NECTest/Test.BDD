@@ -1,0 +1,11 @@
+Feature: User Registration
+Scenario 1: User opens the registration page
+Given
+
+The user is on the homepage,
+When
+
+They click on the "Sign Up" or "Register" link,
+Then
+
+They should be redirected to the registration page.
